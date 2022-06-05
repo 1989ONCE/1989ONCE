@@ -28,11 +28,11 @@
     - leader of the team, MASK.
     - **TOP 8** of all 'Advantech' teams.
     
-<img src="act.jpg" width="180" height="auto" alt="ACT event pic" />
+<img src="act.JPG" width="300" height="auto" alt="ACT event pic" />
 
 
 ### English Skills
 - I participated in lots of English sessions at noon, mostly last for 50 min.
-<img src="english_corner.jpg" width="180" height="auto" alt="english_corner" />
+<img src="english_corner.jpg" width="300" height="auto" alt="english_corner" />
 
 - TOEIC score: 780 in total. 
