@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Noto Serif TC', serif;">About me<br></h1>
+:information_source: <h1 style="font-family: 'Noto Serif TC', serif;">About me<br></h1>
 
 ### 簡介 Brief Introduction 
 您好，我是陳佳妤，目前就讀國立中央大學資訊管理系二年級。對於資訊領域有很大的熱忱，喜歡多方涉略，積極進取，學習力強。現在在學校正參與一個團體專案，共同開發手機應用程式，在團隊裡負責前端開發，對於後端也具有一定了解。另外，目前也正學習資料探勘，所以對於機器學習也有一定的認識。期許自己能透過暑期的實習，對資訊領域有更正確和專業的認識，精進個人的能力。
@@ -21,10 +21,10 @@
 
 ### Experience in School
 
-1. NCU-APP ( https://idea.ncu.edu.tw/community/3 )
+1. <img src="https://idea.ncu.edu.tw/storage/file/1030_07_01%20(1)_08252021034250.png" width="30" height="auto" alt="ncu-app logo" />NCU-APP ( https://idea.ncu.edu.tw/community/3 )
     - Front-end developing
     - Using GitHub, React Native and Firebase
-2. Participating in ACT夢想家‣ ESG影響力計畫-研華組(https://act-esg.com.tw/)
+2. <img src="https://news.idea-show.com/wp-content/uploads/2021/12/ACT-%E5%A4%A2%E6%83%B3%E5%AE%B6-ESG-%E5%BD%B1%E9%9F%BF%E5%8A%9B%E8%A8%88%E7%95%AB.jpg" width="30" height="auto" alt="act-event logo" />Participating in ACT夢想家‣ ESG影響力計畫-研華組(https://act-esg.com.tw/)
     - leader of the team, MASK.
     - **TOP 8** of all 'Advantech' teams.
     
