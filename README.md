@@ -7,9 +7,10 @@
 - Gender: Female
 - Date of Birth: June, 2022
 - Email :e-mail: : chen027@g.ncu.edu.tw
-- School: <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NCULogo.svg" width="40" height="" title="ncu" alt="ncu_logo" />Central University 
--Working Experience: None
--Language Ability: Fluent in English and Chinese
+- School: Central University, Department of Information Management <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NCULogo.svg" width="40" height="" title="ncu" alt="ncu_logo" />
+- Working Experience: None
+- Language Ability: Fluent in English and Chinese
+
 
 ### Coding Language
 - [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="15" height="auto" alt="c++ logo" /> _C/C++_
