@@ -12,12 +12,12 @@
 -Language Ability: Fluent in English and Chinese
 
 ### Coding Language
-- [x] _C/C++_
-- [x] _Python(Machine Learning and web crawler)_
-- [x] _JavaScript (React Native Frame)_
-- [x] _PHP_
-- [x] _MySQL_
-- [x] _HTML_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="15" height="auto" alt="c++ logo" /> _C/C++_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15" height="auto" alt="python logo" /> _Python(Machine Learning and web crawler)_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png" width="15" height="auto" alt="js logo" /> _JavaScript (React Native Frame)_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png" width="15" height="auto" alt="php logo" /> _PHP_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="15" height="auto" alt="mysql logo" /> _MySQL_
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="15" height="auto" alt="html logo" /> _HTML_
 
 ### Experience in School
 
