@@ -8,7 +8,7 @@
 <div style="display:flex;flex-direction:row;" >
   <img align="left" src="/assets/name.gif" width="400" height="200" />
   <h4 align="center">
-    My name is Susan Chen, currently an IM student at National Central University.</br> I'm a person who like to explore all kinds of new things🚀 </br>and have a strong passion about programming🖱️. </br> If you want collaboration in projects, feel free to contact!😊
+    My name is Susan Chen, currently studying Information Management at National Central University.</br> I'm a person who like to explore all kinds of new things🚀 </br>and have a strong passion about programming🖱️. </br> If you want collaboration in projects, feel free to contact me by LinkedIn!😊
   </h4>
 </div>
 
