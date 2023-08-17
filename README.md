@@ -8,7 +8,7 @@
 <div style="display:flex;flex-direction:row;" >
   <img align="left" src="/assets/name.gif" width="400" height="200" />
   <h4 align="center">
-    My name is Susan Chen, currently studying Information Management at National Central University.</br> I'm a person who like to explore all kinds of new things🚀 </br>and have a strong passion about programming🖱️. </br> If you want collaboration in projects, feel free to contact me by LinkedIn!😊
+    My name is Susan Chen, currently studying Information Management at National Central University.</br> I'm a person who like to explore all kinds of new things🚀 </br>and have a strong passion about programming🖱️. </br> If you want collaboration in projects, feel free to contact me through LinkedIn!😊
   </h4>
 </div>
 
@@ -18,8 +18,7 @@
   <p align="left">
     💡 Currently working on my personal website, an integrated System, and a mobile application called NCU App.</br>
     💻 I’m learning Flutter, TypeScript and Machine Learning recently.</br>
-    📧 chen6081989@gmail.com </br>
-    <a style="padding-top:10px;" href="https://linkedin.com/in/susanchen-info" target="blank"><img src="assets/LI-In-Bug.png" height="21px"/> linkedin.com/in/susanchen</a>
+    📧 chen6081989@gmail.com &ensp; <a style="padding-top:10px;" href="https://linkedin.com/in/susanchen-info" target="blank"><img src="assets/LI-In-Bug.png" height="21px"/> linkedin.com/in/susanchen</a>
   </p>
 
 
