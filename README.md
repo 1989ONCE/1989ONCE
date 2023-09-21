@@ -7,9 +7,9 @@
 
 <div style="display:flex;flex-direction:row;" >
   <img align="left" src="/assets/name.gif" width="400" height="200" />
-  <h4 align="center">
+  <p align="center">
     My name is Susan Chen, currently studying Information Management at National Central University.</br> I'm a person who like to explore all kinds of new things🚀 </br>and have a strong passion about programming🖱️. </br> If you want collaboration in projects, feel free to contact me through LinkedIn!😊
-  </h4>
+  </p>
 </div>
 
 
@@ -35,5 +35,5 @@
 <div align="left" style="display:flex; flex-direction:column;">
   <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1989ONCE&size_weight=0&count_weight=1&langs_count=10&hide=Hack&layout=compact" alt="most use languages" />
   <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1989ONCE&show_icons=true&theme=shadow_blue" alt="Github Stats"/>
-  <img height="130" src="https://github-readme-streak-stats.herokuapp.com?user=1989ONCE&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img height="130" src="https://github-readme-streak-stats.herokuapp.com?user=1989ONCE&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub_Streak" />
 </div>
